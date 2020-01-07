@@ -3,7 +3,7 @@
 
 This code attempts to use the Python "Turtle" library, with its online Python 3 doc (example "Turtle star" code and use, for a fractal-like Sun:  https://docs.python.org/3/library/turtle.html), to then draw randomly located fractal-like snowflakes in a scene - the idea behind fractal-like snowflakes is courtesy of GeeksforGeeks (GfG:  https://www.geeksforgeeks.org/snowflakes-fractal-using-python/ `via Subhajit Saha`)...  
 
-...modified and extended, for some cooler and developing "Turtle" use and fractals of course.
+...modified and extended, for some cooler and developing "Turtle" use and fractals of course.  A good example of any development may be the use of the Koch Snowflake, for example:  https://python-with-science.readthedocs.io/en/latest/koch_fractal/koch_fractal.html
 
 The longer term expectation is to take this code to some further extent and demonstration of Git (GitHub), Infrastructure as code (IaC), etc.
 
