@@ -7,7 +7,7 @@ This code attempts to use the Python "Turtle" library, with its online Python 3 
 
 The longer term expectation is to take this code to some further extent and demonstration of Git (GitHub), Infrastructure as code (IaC), DevOps and SecOps, etc.
 
-For an original or basic attempt, leading into other coding and interesting developments, in order, please first see the least modified  "snowflake.py", then "snowflake_withsun.py", and then "snowscene_aleena.py".  Each run as intended through an online Python IDE, with any Tkinter support, such as:  https://repl.it/languages/tkinter 
+For an original or basic attempt, leading into other coding and interesting developments, in order, please first see the least modified  "snowflake.py", then "snowflake_withsun.py", and then "snowscene_aleena.py".  Each run as intended through an online Python IDE, with any Tkinter support, such as:  https://repl.it/languages/tkinter. 
 
 *No Open Source licensing used, or chosen, but these were of course read and referred to as needed in licensing consideration:*  https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository -and- https://choosealicense.com/.
 
