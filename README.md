@@ -1,7 +1,7 @@
 ## First GitHub repository!  -200106MR
 # TurtleSnow
 
-This code uses the Python "Turtle" library, referring to its online Python 3 documentation (example "Turtle star" code and use, for a fractal-like Sun:  https://docs.python.org/3/library/turtle.html), to then draw randomly located fractal-like snowflakes in a scene.  The idea behind fractal-like snowflakes is courtesy of GeeksforGeeks (GfG:  https://www.geeksforgeeks.org/snowflakes-fractal-using-python/ `via Subhajit Saha`) - yet the true inspiration, for all of this, spaked from demonstrating Python 3 coding to my eldest daughter, Aleena, during her 2019 Winter break.
+This code uses the Python "Turtle" library, referring to its online Python 3 documentation (example "Turtle star" code and use, for a fractal-like Sun:  https://docs.python.org/3/library/turtle.html), to then draw randomly located fractal-like snowflakes in a scene.  The idea behind fractal-like snowflakes is courtesy of GeeksforGeeks (GfG:  https://www.geeksforgeeks.org/snowflakes-fractal-using-python/ `via Subhajit Saha`) - yet the true inspiration, for all of this, sparked from demonstrating Python 3 coding to my eldest daughter, Aleena, during her 2019 Winter break.
 
 This of course led to the modified and extended, for some cooler and developing "Turtle" use and fractals, of the "snowscene_aleena.py" code.  A good example of any further or upcoming Python 3 code development may be to include the use of the Koch Snowflake, for example:  https://python-with-science.readthedocs.io/en/latest/koch_fractal/koch_fractal.html
 
