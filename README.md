@@ -11,7 +11,7 @@ For an original or basic attempt, leading into other coding and interesting deve
 
 *No Open Source licensing used, or chosen, but these were of course read and referred to as needed in licensing consideration:*  https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository -and- https://choosealicense.com/.
 
-:snowflake: :sunny:
+:turtle: :snowflake: :sunny:
 
 -200106MR - Creation and first writeup.
 
